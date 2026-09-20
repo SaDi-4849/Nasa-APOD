@@ -2,7 +2,6 @@ import requests
 import webbrowser
 from datetime import datetime, date, timedelta
 import json
-from kavenegar import *
 
 url = 'https://api.nasa.gov/planetary/apod'
 api_key = "JZXjKYRMZjYbUs4nbmcTa2g73eUcuqO17UDsgfvB"
